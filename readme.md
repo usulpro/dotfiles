@@ -7,4 +7,4 @@ Minimalistic [bash prompt](bash-prompt/usulpro_prompt.sh)
 - indicate git branch
 - indicate git status
 
-Based on @sapegin [dotfiles](https://github.com/sapegin/dotfiles)
+Based on [@sapegin](https://github.com/sapegin) [dotfiles](https://github.com/sapegin/dotfiles)
