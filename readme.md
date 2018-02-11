@@ -1,6 +1,6 @@
 # My dotfiles
 
-![screenshot](doc/hypershot.png)
+(![screenshot](doc/hypershot.png))[https://raw.githubusercontent.com/UsulPro/dotfiles/master/doc/hypershot.png]
 
 Minimalistic [bash prompt](bash-prompt/usulpro_prompt.sh)
 - indicate last command result
