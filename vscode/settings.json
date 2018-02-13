@@ -1,0 +1,22 @@
+{
+    "window.zoomLevel": 0,
+    "workbench.iconTheme": "material-icon-theme",
+    "gitlens.advanced.messages": {
+        "suppressCommitHasNoPreviousCommitWarning": false,
+        "suppressCommitNotFoundWarning": false,
+        "suppressFileNotUnderSourceControlWarning": false,
+        "suppressGitVersionWarning": false,
+        "suppressLineUncommittedWarning": false,
+        "suppressNoRepositoryWarning": false,
+        "suppressResultsExplorerNotice": false,
+        "suppressUpdateNotice": false,
+        "suppressWelcomeNotice": true
+    },
+    "workbench.colorTheme": "One Dark Pro",
+    "git.autofetch": true,
+    "editor.wordWrap": "on",
+    "editor.tabSize": 2,
+    "editor.autoIndent": false,
+    "workbench.startupEditor": "none",
+    "files.trimTrailingWhitespace": true
+}
